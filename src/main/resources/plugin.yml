@@ -1,0 +1,8 @@
+name: CVanish
+version: 1.0
+main: legacystore.store.cvanish.CVanish
+website: legacystore.store
+api-version: '1.20'
+author: [CampoyErick]
+commands:
+  v:
